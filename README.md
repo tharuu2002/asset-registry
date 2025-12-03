@@ -7,13 +7,6 @@ A simple and clean **Asset Registry Web Application** built using:
 
 This project allows users to add, track, and manage **software** and **hardware** assets with a confirmation workflow and real-time UI updates.
 
----
-
-## 📸 Screenshot  
-*(Place your screenshot file in the project root so it appears below the README.)*
-
----
-
 ## Features
 
 ### Asset Management
@@ -67,4 +60,12 @@ asset-registy/
 │
 ├── Screenshot.png
 └── README.md 
+
+
+---
+
+## Screenshot  
+
+<img src="./Screenshot.png" width="800">
+---
 
