@@ -21,17 +21,17 @@ This project allows users to add, track, and manage **software** and **hardware*
 - Assets marked **Inactive → shown in Red**
 
 ### Backend API
-- REST API built with Node.js + Express
+- REST API built with Node.js
 - PostgreSQL database for persistence
 
 ---
 
 ## Tech Stack
-```
-**Frontend:** React.js 
-**Backend:** Node.js 
-**Database:** PostgreSQL  
-```
+
+- **Frontend:** React.js 
+- **Backend:** Node.js 
+- **Database:** PostgreSQL  
+
 ---
 
 ## Project Structure
@@ -61,8 +61,7 @@ asset-registy/
 │
 ├── Screenshot.png
 └── README.md 
-
-
+```
 ---
 
 ## Screenshot  
