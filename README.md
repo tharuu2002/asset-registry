@@ -27,39 +27,40 @@ This project allows users to add, track, and manage **software** and **hardware*
 ---
 
 ## Tech Stack
-
--**Frontend:** React.js 
--**Backend:** Node.js 
--**Database:** PostgreSQL  
-
+```
+**Frontend:** React.js 
+**Backend:** Node.js 
+**Database:** PostgreSQL  
+```
 ---
 
 ## Project Structure
 
+```
 asset-registy/
--├── client/ 
--│ ├── node_modules/
--│ ├── public/
--│ ├── src/
--│ ├── .gitignore
--│ ├── eslint.config.js
--│ ├── index.html
--│ ├── package-lock.json
--│ ├── package.json
--│ ├── README.md
--│ └── vite.config.js
--│
--├── server/ 
--│ ├── node_modules/
--│ ├── .env
--│ ├── db.js 
--│ ├── index.js 
--│ ├── package-lock.json
--│ ├── package.json
--│ └── README.md
--│
--├── Screenshot.png
--└── README.md 
+├── client/ 
+│ ├── node_modules/
+│ ├── public/
+│ ├── src/
+│ ├── .gitignore
+│ ├── eslint.config.js
+│ ├── index.html
+│ ├── package-lock.json
+│ ├── package.json
+│ ├── README.md
+│ └── vite.config.js
+│
+├── server/ 
+│ ├── node_modules/
+│ ├── .env
+│ ├── db.js 
+│ ├── index.js 
+│ ├── package-lock.json
+│ ├── package.json
+│ └── README.md
+│
+├── Screenshot.png
+└── README.md 
 
 
 ---
