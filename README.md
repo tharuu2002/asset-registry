@@ -35,10 +35,9 @@ This project allows users to add, track, and manage **software** and **hardware*
 
 ## Tech Stack
 
-**Frontend:** React.js, Axios  
-**Backend:** Node.js, Express.js  
+**Frontend:** React.js 
+**Backend:** Node.js 
 **Database:** PostgreSQL  
-**ORM / Query Tool:** (Add if used: Sequelize / Prisma / Knex / pg library)
 
 ---
 
@@ -57,7 +56,7 @@ asset-registy/
 │ ├── README.md
 │ └── vite.config.js
 │
-├── server/ # Node.js Backend (Express API)
+├── server/ 
 │ ├── node_modules/
 │ ├── .env
 │ ├── db.js 
