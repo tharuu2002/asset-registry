@@ -1,0 +1,35 @@
+/* index.css */
+:root {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  
+  /* Global Background for the whole page */
+  background-color: #f3f4f6; 
+  color: #1f2937;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center; /* Centers content vertically and horizontally */
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+/* Reset links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+}
